@@ -1,3 +1,3 @@
 # sdushantha.github.io
 
-[Visit my website](sdushantha.github.io)
+[Visit my website](https://sdushantha.github.io)
